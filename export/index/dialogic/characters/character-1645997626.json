@@ -1,0 +1,52 @@
+{
+	"color": "#ffffffff",
+	"description": "",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1645997626.json",
+	"mirror_portraits": false,
+	"name": "Lucy",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://lucy/smiling_blushing.png"
+		},
+		{
+			"name": "smiling",
+			"path": "res://lucy/smiling.png"
+		},
+		{
+			"name": "crying",
+			"path": "res://lucy/IMG_0048 6.png"
+		},
+		{
+			"name": "no emotion",
+			"path": "res://lucy/IMG_0048 4.png"
+		},
+		{
+			"name": "angry",
+			"path": "res://lucy/IMG_0048 5.png"
+		},
+		{
+			"name": "blushing",
+			"path": "res://lucy/blushing.png"
+		},
+		{
+			"name": "surprised",
+			"path": "res://lucy/suprise.png"
+		},
+		{
+			"name": "smiling_blushing",
+			"path": "res://lucy/smiling_blushing.png"
+		},
+		{
+			"name": "happy",
+			"path": "res://lucy/happy.png"
+		}
+	],
+	"scale": 75
+}

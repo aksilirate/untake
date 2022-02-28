@@ -1,0 +1,560 @@
+{
+	"events": [
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm so nervous..."
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I had a crush on her since the first day of school."
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Just don't ruin everything..."
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[color=gray] * enters the class * [/color]"
+		},
+		{
+			"emit_signal": "lighten_background",
+			"event_id": "dialogic_040"
+		},
+		{
+			"event_id": "dialogic_023",
+			"wait_seconds": 2
+		},
+		{
+			"action": "join",
+			"character": "character-1645997626.json",
+			"event_id": "dialogic_002",
+			"mirror": false,
+			"portrait": "crying",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			}
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[color=gray] \"is she crying?\" [/color]"
+		},
+		{
+			"event_id": "dialogic_023",
+			"wait_seconds": 1
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Something happened?"
+		},
+		{
+			"character": "character-1645997626.json",
+			"event_id": "dialogic_001",
+			"portrait": "crying",
+			"text": "No..."
+		},
+		{
+			"character": "character-1645997626.json",
+			"event_id": "dialogic_001",
+			"portrait": "crying",
+			"text": "Sorry...."
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Thats ok."
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What happened?"
+		},
+		{
+			"character": "character-1645997626.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Nothing..."
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So why are you crying?"
+		},
+		{
+			"character": "character-1645997626.json",
+			"event_id": "dialogic_001",
+			"portrait": "blushing",
+			"text": "I don't remember..."
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That's strange..."
+		},
+		{
+			"character": "character-1645997626.json",
+			"event_id": "dialogic_001",
+			"portrait": "blushing",
+			"text": "I know."
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Do you have a memory disorder?"
+		},
+		{
+			"character": "character-1645997626.json",
+			"event_id": "dialogic_001",
+			"portrait": "blushing",
+			"text": "I don't."
+		},
+		{
+			"character": "character-1645997626.json",
+			"event_id": "dialogic_001",
+			"portrait": "blushing",
+			"text": "Don't worry, I'm ok now."
+		},
+		{
+			"character": "character-1645997626.json",
+			"event_id": "dialogic_001",
+			"portrait": "blushing",
+			"text": "Please don't tell anyone about what happened."
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I wont."
+		},
+		{
+			"character": "character-1645997626.json",
+			"event_id": "dialogic_001",
+			"portrait": "blushing",
+			"text": "You're Kali right?"
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[color=gray] * smiles and nods  * [/color]"
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You remembered my name."
+		},
+		{
+			"character": "character-1645997626.json",
+			"event_id": "dialogic_001",
+			"portrait": "blushing",
+			"text": "I'm good with remembering names."
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Seems like it."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1645997626.json",
+			"event_id": "dialogic_001",
+			"portrait": "no emotion",
+			"text": "Soo..."
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What?"
+		},
+		{
+			"character": "character-1645997626.json",
+			"event_id": "dialogic_001",
+			"portrait": "no emotion",
+			"text": "Why did you ask me to stay after class?"
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh! Right."
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I wanted to ask you something."
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[color=gray]  \"That's my chance.\"  [/color]"
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I heard that you like horror movies."
+		},
+		{
+			"character": "character-1645997626.json",
+			"event_id": "dialogic_001",
+			"portrait": "smiling",
+			"text": "That's true."
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Great."
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[color=gray]  * shows 2 tickets *  [/color]"
+		},
+		{
+			"character": "character-1645997626.json",
+			"event_id": "dialogic_001",
+			"portrait": "surprised",
+			"text": "No... Way..."
+		},
+		{
+			"character": "character-1645997626.json",
+			"event_id": "dialogic_001",
+			"portrait": "surprised",
+			"text": "I wanted to watch this  so much!"
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Nobody I know likes horror movies."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[color=gray]  \"That's a lie of course.\"  [/color]"
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Soo... instead of wasting this spare ticket..."
+		},
+		{
+			"character": "character-1645997626.json",
+			"event_id": "dialogic_001",
+			"portrait": "surprised",
+			"text": "..."
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Would you like to come with me instead?"
+		},
+		{
+			"character": "character-1645997626.json",
+			"event_id": "dialogic_001",
+			"portrait": "happy",
+			"text": "Sure!"
+		},
+		{
+			"character": "character-1645997626.json",
+			"event_id": "dialogic_001",
+			"portrait": "happy",
+			"text": "Thank you so much!"
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[color=gray]  \"This is the best day of my life\"  [/color]"
+		},
+		{
+			"emit_signal": "day_2",
+			"event_id": "dialogic_040"
+		},
+		{
+			"event_id": "dialogic_023",
+			"wait_seconds": 5
+		},
+		{
+			"action": "leaveall",
+			"character": "character-1645997626.json",
+			"event_id": "dialogic_003"
+		},
+		{
+			"event_id": "dialogic_023",
+			"wait_seconds": 5
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm so nervous..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I had a crush on her since the first day of school."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Just don't ruin everything..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[color=gray] * enters the class * [/color]"
+		},
+		{
+			"emit_signal": "dim_background",
+			"event_id": "dialogic_040"
+		},
+		{
+			"event_id": "dialogic_023",
+			"wait_seconds": 2
+		},
+		{
+			"action": "join",
+			"character": "character-1645997626.json",
+			"event_id": "dialogic_002",
+			"mirror": false,
+			"portrait": "crying",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			}
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[color=gray] \"she is crying\" [/color]"
+		},
+		{
+			"event_id": "dialogic_023",
+			"wait_seconds": 1
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Something happened..."
+		},
+		{
+			"character": "character-1645997626.json",
+			"event_id": "dialogic_001",
+			"portrait": "crying",
+			"text": "Yes..."
+		},
+		{
+			"character": "character-1645997626.json",
+			"event_id": "dialogic_001",
+			"portrait": "crying",
+			"text": "Sorry..."
+		},
+		{
+			"character": "character-1645997626.json",
+			"event_id": "dialogic_001",
+			"portrait": "crying",
+			"text": "But I want to forget it."
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I know."
+		},
+		{
+			"emit_signal": "day_3",
+			"event_id": "dialogic_040"
+		},
+		{
+			"event_id": "dialogic_023",
+			"wait_seconds": 5
+		},
+		{
+			"action": "leaveall",
+			"character": "[All]",
+			"event_id": "dialogic_003"
+		},
+		{
+			"event_id": "dialogic_023",
+			"wait_seconds": 5
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "This lie, is one of a kind."
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[color=gray] * enters the class * [/color]"
+		},
+		{
+			"event_id": "dialogic_023",
+			"wait_seconds": 2
+		},
+		{
+			"action": "join",
+			"character": "character-1645997626.json",
+			"event_id": "dialogic_002",
+			"mirror": false,
+			"portrait": "smiling",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			}
+		},
+		{
+			"character": "character-1645997626.json",
+			"event_id": "dialogic_001",
+			"portrait": "smiling",
+			"text": "Took you a long time."
+		},
+		{
+			"character": "character-1645997626.json",
+			"event_id": "dialogic_001",
+			"portrait": "smiling",
+			"text": "Why did you call me here?"
+		},
+		{
+			"character": "character-1645997626.json",
+			"event_id": "dialogic_001",
+			"portrait": "smiling",
+			"text": "My friend told me you have a crush on me."
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I..."
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don't."
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[color=gray] \"...\"  [/color]"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[color=gray] \"I didn't want to lie\"  [/color]"
+		},
+		{
+			"emit_signal": "day_4",
+			"event_id": "dialogic_040"
+		},
+		{
+			"event_id": "dialogic_023",
+			"wait_seconds": 5
+		},
+		{
+			"action": "leaveall",
+			"character": "[All]",
+			"event_id": "dialogic_003"
+		},
+		{
+			"event_id": "dialogic_023",
+			"wait_seconds": 5
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can't enter the classroom."
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I wish I could today."
+		},
+		{
+			"character": "character-1646008128.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But it was locked."
+		},
+		{
+			"emit_signal": "end",
+			"event_id": "dialogic_040"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.3",
+		"file": "timeline-1645998356.json",
+		"name": "day_1"
+	}
+}
